@@ -3,7 +3,7 @@ interface Task {
 }
 
 const task: Task = {
-    title: 'Clean office'
+    title: 'Version 2'
 }
 
 document.getElementById('task').innerText = task.title;
